@@ -34,7 +34,7 @@ As imagens são carregadas diretamente do servidor do Wikimedia Commons; por iss
 
 ## Identidade visual
 
-A interface usa Playfair Display nos títulos e DM Sans nos textos, com paleta azul-marinho, creme, dourado e verde-petróleo. As imagens usam ajuste proporcional para evitar cortes de rostos, manuscritos e diagramas.
+A interface usa tema escuro, com azul-marinho como base, painéis em azul profundo e detalhes alaranjados para destacar títulos, links e elementos ativos. Os títulos usam Playfair Display e os textos usam DM Sans. As imagens usam ajuste proporcional para evitar cortes de rostos, manuscritos e diagramas. O layout adapta a altura da linha do tempo a diferentes tamanhos de tela.
 
 ## Referências bibliográficas
 
