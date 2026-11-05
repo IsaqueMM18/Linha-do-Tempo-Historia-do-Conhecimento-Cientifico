@@ -19,7 +19,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Babylonian_Clay_Tablets.jpg",
         "caption": "Tabletes de argila babilônicos · fotografia de Gary Todd, 2017",
         "credit": "Imagem CC0 · <a href=\"https://commons.wikimedia.org/wiki/File:Babylonian_Clay_Tablets.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e licença</a>",
-        "alt": "Conjunto de tabletes de argila com inscrições cuneiformes em exposição"
+        "alt": "Conjunto de tabletes de argila com inscrições cuneiformes em exposição",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/74/Babylonian_Clay_Tablets.jpg"
       },
       "end_date": {
         "year": -1000
@@ -38,7 +39,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Aristotle%2C_from_The_Story_of_Philosophy.jpg",
         "caption": "Representação de Aristóteles · impressão publicada em 1926, autor da imagem não identificado",
         "credit": "Domínio público (publicação anterior a 1931 nos EUA) · <a href=\"https://commons.wikimedia.org/wiki/File:Aristotle,_from_The_Story_of_Philosophy.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo e situação de direitos</a>",
-        "alt": "Representação em preto e branco do filósofo Aristóteles"
+        "alt": "Representação em preto e branco do filósofo Aristóteles",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/40/Aristotle%2C_from_The_Story_of_Philosophy.jpg"
       },
       "end_date": {
         "year": -301
@@ -57,7 +59,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Euclid_Lueneburg_ms_13r.jpg",
         "caption": "Os Elementos, de Euclides · manuscrito latino medieval de Lüneburg, c. 1200 (testemunho posterior da tradição euclidiana)",
         "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Euclid_Lueneburg_ms_13r.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, descrição e direitos</a>",
-        "alt": "Página de manuscrito medieval dos Elementos de Euclides, com texto manuscrito e diagrama geométrico"
+        "alt": "Página de manuscrito medieval dos Elementos de Euclides, com texto manuscrito e diagrama geométrico",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Euclid_Lueneburg_ms_13r.jpg"
       },
       "end_date": {
         "year": -101
@@ -76,7 +79,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ibn_Yunus_eclipses_1004_CE_manuscript_records_Arabic.jpg",
         "caption": "Registros de eclipses de Ibn Yunus · manuscrito astronômico árabe, c. 1005",
         "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Ibn_Yunus_eclipses_1004_CE_manuscript_records_Arabic.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e direitos</a>",
-        "alt": "Página de manuscrito árabe com registros astronômicos de eclipses solares e lunares"
+        "alt": "Página de manuscrito árabe com registros astronômicos de eclipses solares e lunares",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ibn_Yunus_eclipses_1004_CE_manuscript_records_Arabic.jpg"
       },
       "end_date": {
         "year": 1100
@@ -95,7 +99,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Illustrated_Opening._Arabic_Translation_of_Euclid%27s_Elementa_%28CBL_Ar_3035%2C_ff.105b-106a%29.jpg",
         "caption": "Tradução árabe dos Elementos de Euclides · atribuída a Ishaq ibn Hunayn, Bagdá, c. 1270",
         "credit": "Domínio público (Public Domain Mark) · <a href=\"https://commons.wikimedia.org/wiki/File:Illustrated_Opening._Arabic_Translation_of_Euclid%27s_Elementa_(CBL_Ar_3035,_ff.105b-106a).jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, coleção e direitos</a>",
-        "alt": "Duas páginas de manuscrito árabe medieval com texto e diagramas geométricos em vermelho e preto"
+        "alt": "Duas páginas de manuscrito árabe medieval com texto e diagramas geométricos em vermelho e preto",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/96/Illustrated_Opening._Arabic_Translation_of_Euclid%27s_Elementa_%28CBL_Ar_3035%2C_ff.105b-106a%29.jpg"
       },
       "end_date": {
         "year": 1300
@@ -114,7 +119,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Copernican_heliocentrism_diagram.jpg",
         "caption": "Diagrama do modelo heliocêntrico de Copérnico · De revolutionibus orbium coelestium, 1543",
         "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e direitos</a>",
-        "alt": "Diagrama histórico do sistema heliocêntrico com o Sol no centro e órbitas planetárias concêntricas"
+        "alt": "Diagrama histórico do sistema heliocêntrico com o Sol no centro e órbitas planetárias concêntricas",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Copernican_heliocentrism_diagram.jpg"
       },
       "end_date": {
         "year": 1700
@@ -133,7 +139,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Portrait_of_Sir_Isaac_Newton_by_Enoch_Seeman%2C_c._1726.jpg",
         "caption": "Retrato de Isaac Newton · Enoch Seeman, c. 1726",
         "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton_by_Enoch_Seeman,_c._1726.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, artista e direitos</a>",
-        "alt": "Pintura a óleo de Isaac Newton com cabelos longos e vestimenta escura"
+        "alt": "Pintura a óleo de Isaac Newton com cabelos longos e vestimenta escura",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/77/Portrait_of_Sir_Isaac_Newton_by_Enoch_Seeman%2C_c._1726.jpg"
       }
     },
     {
@@ -149,7 +156,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Charles_Darwin_portrait.jpg",
         "caption": "Retrato fotográfico de Charles Darwin · Herbert Rose Barraud, 1881",
         "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e direitos</a>",
-        "alt": "Retrato fotográfico em preto e branco de Charles Darwin em idade avançada"
+        "alt": "Retrato fotográfico em preto e branco de Charles Darwin em idade avançada",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Charles_Darwin_portrait.jpg"
       }
     },
     {
@@ -165,7 +173,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Albert_Einstein_Portrait_%281930%29.jpg",
         "caption": "Retrato de Albert Einstein · fotografia publicada em 1930",
         "credit": "Domínio público (publicação anterior a 1931 nos EUA) · <a href=\"https://commons.wikimedia.org/wiki/File:Albert_Einstein_Portrait_(1930).jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo e situação de direitos</a>",
-        "alt": "Retrato fotográfico em preto e branco de Albert Einstein em 1930"
+        "alt": "Retrato fotográfico em preto e branco de Albert Einstein em 1930",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/65/Albert_Einstein_Portrait_%281930%29.jpg"
       },
       "end_date": {
         "year": 1929
@@ -184,7 +193,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/DNA_Double_Helix_by_NHGRI.jpg",
         "caption": "Modelo da dupla hélice do DNA · National Human Genome Research Institute (NHGRI)",
         "credit": "Domínio público · obra de órgão do governo federal dos EUA · <a href=\"https://commons.wikimedia.org/wiki/File:DNA_Double_Helix_by_NHGRI.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, instituição e direitos</a>",
-        "alt": "Ilustração colorida de uma molécula de DNA em estrutura de dupla hélice"
+        "alt": "Ilustração colorida de uma molécula de DNA em estrutura de dupla hélice",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/13/DNA_Double_Helix_by_NHGRI.jpg"
       }
     }
   ]
