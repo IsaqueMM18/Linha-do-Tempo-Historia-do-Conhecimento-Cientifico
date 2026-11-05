@@ -4,51 +4,62 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#081321">
-  <meta name="description" content="Atividade 03 (AT2) da disciplina Iniciação ao Pensamento Científico: Problematizações Epistemológicas. Linha do tempo sobre a história do conhecimento científico.">
+  <meta name="description" content="Atividade 03 (AT2) — Iniciação ao Pensamento Científico: Problematizações Epistemológicas. Linha do tempo da história do conhecimento científico.">
   <title>Atividade 03 (AT2) — História do Conhecimento Científico</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <header class="cabecalho">
-    <div class="identificacao-atividade" aria-label="Identificação da atividade acadêmica">
-      <span class="atividade-selo">Atividade 03 <strong>(AT2)</strong></span>
-      <p class="disciplina">Iniciação ao Pensamento Científico:<br class="quebra-mobile"> Problematizações Epistemológicas</p>
-      <p class="autor">Trabalho desenvolvido por <strong>Isaque Monteiro</strong></p>
+  <header class="hero">
+    <div class="assignment">
+      <span class="assignment-tag">Atividade 03 <b>(AT2)</b></span>
+      <h2>Iniciação ao Pensamento Científico:<br>Problematizações Epistemológicas</h2>
+      <p>Trabalho desenvolvido por <strong>Isaque Monteiro</strong></p>
     </div>
-    <p class="eyebrow">Uma jornada pela história das ideias</p>
+    <span class="eyebrow">Percurso histórico e epistemológico</span>
     <h1>História do Conhecimento Científico</h1>
-    <p class="subtitulo">Da Antiguidade à ciência contemporânea: continuidades, rupturas e transformações na construção do conhecimento humano.</p>
-    <p class="intro">Esta linha do tempo apresenta dez momentos importantes da construção histórica do conhecimento científico. Use as setas do teclado ou os botões laterais para navegar. Datas de períodos longos são intervalos históricos aproximados.</p>
+    <p class="hero-lead">De registros antigos às descobertas da biologia molecular: dez marcos que ajudam a compreender como o conhecimento é construído, transmitido e transformado.</p>
   </header>
+
   <main>
-    <section class="secao-timeline" aria-label="Linha do tempo interativa">
-      <div class="secao-titulo">
-        <span class="secao-etiqueta">Percurso histórico</span>
-        <h2>Marcos da construção do conhecimento</h2>
-        <p>Navegue pelos acontecimentos e explore suas contribuições, contextos e interpretações.</p>
+    <section class="timeline-section" aria-labelledby="timeline-heading">
+      <div class="section-heading">
+        <span class="eyebrow">Explore os acontecimentos</span>
+        <h2 id="timeline-heading">Marcos históricos</h2>
+        <p>Selecione um marco na lista. O conteúdo e a imagem aparecem em um painel amplo, sem setas sobrepostas.</p>
       </div>
-      <div class="timeline-shell">
-        <div id="timeline-embed" role="region" aria-label="Linha do tempo interativa da história do conhecimento científico"></div>
+      <div class="timeline-app" id="timeline-app">
+        <nav class="event-nav" aria-label="Selecionar marco histórico">
+          <div class="nav-heading">
+            <span>LINHA DO TEMPO</span>
+            <span id="event-count">10 MARCOS</span>
+          </div>
+          <div id="event-list" class="event-list">
+            <p class="loading">Carregando marcos históricos…</p>
+          </div>
+        </nav>
+        <article class="event-detail" id="event-detail" aria-live="polite">
+          <div class="detail-placeholder">Selecione um marco histórico para visualizar os detalhes.</div>
+        </article>
       </div>
-      <div id="fallback" hidden></div>
+      <noscript><p class="noscript">Ative o JavaScript do navegador para utilizar a navegação interativa.</p></noscript>
     </section>
-    <section class="reflexao" id="reflexao">
-      <span class="secao-etiqueta">Síntese crítica</span>
+
+    <section class="reflection">
+      <span class="eyebrow">Síntese crítica</span>
       <h2>A ciência como construção histórica</h2>
       <p>A história do conhecimento científico demonstra que a ciência não é resultado de descobertas isoladas ou de um processo linear. Seu desenvolvimento envolve a acumulação de conhecimentos, a revisão de explicações, a realização de experimentos, os debates entre pesquisadores e a influência dos contextos sociais e culturais. As transformações científicas dependem de contribuições individuais e coletivas, estabelecendo relações entre diferentes épocas e tradições intelectuais.</p>
       <p>Em <em>A estrutura das revoluções científicas</em>, Thomas Kuhn propôs que comunidades científicas trabalham, em geral, dentro de paradigmas estabelecidos e que, em certos momentos, ocorrem transformações conceituais profundas. A discussão posterior, resumida por Nickles (2024), mostra que essas categorias não devem reduzir toda a história científica a rupturas abruptas: continuidade e descontinuidade coexistem, e é preciso examinar contextos e comunidades específicos.</p>
     </section>
   </main>
+
   <footer>
-    <p>Atividade acadêmica · Material educacional elaborado por <strong>Isaque Monteiro</strong>.</p>
-    <p>Linha do tempo criada com <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener noreferrer">TimelineJS (Knight Lab)</a>.</p>
-    <p>Imagens de acervos e arquivos de domínio público; fontes e direitos indicados nas legendas e na <a href="docs/creditos-imagens.md">página de créditos das imagens</a>. Consulte também as <a href="docs/referencias.md">referências bibliográficas</a>.</p>
+    <p>Atividade 03 (AT2) · Material educacional elaborado por <strong>Isaque Monteiro</strong>.</p>
+    <p>Imagens e licenças identificadas nas legendas e na <a href="docs/creditos-imagens.md">página de créditos</a>.</p>
+    <p>Consulte também as <a href="docs/referencias.md">referências bibliográficas</a>.</p>
   </footer>
-  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
   <script src="assets/js/app.js"></script>
 </body>
 </html>
