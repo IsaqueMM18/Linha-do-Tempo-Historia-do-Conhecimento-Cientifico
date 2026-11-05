@@ -319,3 +319,30 @@ button:focus-visible {
     transition-duration: .01ms !important;
   }
 }
+
+
+/* Ajuste final de leitura: conteúdo completo no painel, sem rolagem interna */
+.tl-text,
+.tl-text-content {
+  overflow: visible !important;
+}
+.tl-text-content p,
+.tl-text-content li {
+  font-size: .92rem !important;
+  line-height: 1.48 !important;
+  margin: .42rem 0 !important;
+}
+.tl-slidenav-next .tl-slidenav-title,
+.tl-slidenav-previous .tl-slidenav-title,
+.tl-slidenav-next .tl-slidenav-description,
+.tl-slidenav-previous .tl-slidenav-description {
+  color: #f4f6f8 !important;
+  opacity: 1 !important;
+}
+.tl-menubar,
+.tl-menubar button {
+  color: #fff !important;
+}
+.tl-menubar button:hover {
+  color: var(--orange-light) !important;
+}
