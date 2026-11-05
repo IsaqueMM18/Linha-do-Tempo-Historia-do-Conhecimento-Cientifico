@@ -15,7 +15,18 @@
     return r.json();
   }).then(function (dados) {
     if (typeof TL === 'undefined') { fallback(dados, 'Não foi possível carregar o TimelineJS. Exibindo versão em lista.'); return; }
-    new TL.Timeline('timeline-embed', dados, { language: 'pt-br', hash_bookmark: false, scale_factor: 2, start_at_slide: 0 });
+    new TL.Timeline('timeline-embed', dados, {
+      language: 'pt-br',
+      hash_bookmark: false,
+      scale_factor: 2,
+      start_at_slide: 1,
+      timenav_height: 150,
+      timenav_height_min: 125,
+      timenav_mobile_height_percentage: 30,
+      slide_padding_lr: 55,
+      default_bg_color: { r: 13, g: 27, b: 43 },
+      font: null
+    });
   }).catch(function (e) {
     fallback(null, 'Não foi possível carregar os dados da linha do tempo (' + e.message + '). Se estiver abrindo o arquivo direto do disco, use um servidor local (veja o README).');
   });
