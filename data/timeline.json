@@ -1,191 +1,191 @@
 {
- "title": {
-  "text": {
-   "headline": "História do Conhecimento Científico",
-   "text": "Da Antiguidade à ciência contemporânea. Use as setas para navegar pelos 10 marcos."
-  }
- },
- "events": [
-  {
-   "start_date": {
-    "year": -3000,
-    "display_date": "c. 3000–1000 a.C. (intervalo aproximado)"
-   },
-   "text": {
-    "headline": "Primeiros registros sistemáticos do conhecimento",
-    "text": "<p><em>c. 3000–1000 a.C. (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Povos da Mesopotâmia e do Egito registraram contagens, medidas, calendários e observações astronômicas para administrar colheitas, tributos e rituais. Tabletes cuneiformes mostram técnicas matemáticas e tabelas elaboradas.</p><p><strong>Contexto histórico:</strong> Estados com escribas, templos e burocracias precisavam de escrita, sistemas de medida e calendários confiáveis.</p><p><strong>Interpretação crítica:</strong> Esse saber não foi obra de indivíduos isolados: foi mantido por escolas de escribas e transmitido por gerações. Mais tarde, gregos e astrônomos de outras tradições dialogaram com essas tabelas e métodos. Atenção: as datas são aproximadas e variam por região.</p><p><strong>Referências:</strong> Robson (2008); Neugebauer (1957) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Primeiros registros sistemáticos do conhecimento"
-   },
-   "end_date": {
-    "year": -1000
-   }
+  "title": {
+    "text": {
+      "headline": "História do Conhecimento Científico",
+      "text": "Da Antiguidade à ciência contemporânea. Use as setas para navegar pelos 10 marcos."
+    }
   },
-  {
-   "start_date": {
-    "year": -600,
-    "display_date": "Séculos VI–IV a.C. (intervalo aproximado)"
-   },
-   "text": {
-    "headline": "Filosofia natural na Grécia Antiga",
-    "text": "<p><em>Séculos VI–IV a.C. (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Pensadores gregos buscaram explicações da natureza por causas naturais, discutindo matéria, movimento e cosmos, de Tales a Aristóteles.</p><p><strong>Contexto histórico:</strong> Cidades-Estado com debate público, circulação de ideias e contato com Egito, Mesopotâmia e Pérsia.</p><p><strong>Interpretação crítica:</strong> Os gregos herdaram dados e técnicas orientais, e as escolas rivais (jônica, pitagórica, atomista, platônica, aristotélica) construíram o conhecimento por disputa coletiva. Muitas fontes chegaram fragmentadas, o que exige cautela ao atribuir ideias a um único nome.</p><p><strong>Referências:</strong> Lloyd (1970) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Filosofia natural na Grécia Antiga"
-   },
-   "end_date": {
-    "year": -301
-   }
-  },
-  {
-   "start_date": {
-    "year": -300,
-    "display_date": "Séculos III–II a.C. (intervalo aproximado)"
-   },
-   "text": {
-    "headline": "Sistematização da matemática e do conhecimento",
-    "text": "<p><em>Séculos III–II a.C. (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Em Alexandria e arredores, Euclides, Arquimedes, Apolônio e Hiparco organizaram geometria, mecânica e astronomia em tratados e métodos rigorosos.</p><p><strong>Contexto histórico:</strong> Monarquias helenísticas financiaram instituições como o Museu e a Biblioteca de Alexandria, reunindo estudiosos de várias origens.</p><p><strong>Interpretação crítica:</strong> Os <em>Elementos</em> organizam resultados anteriores; a astronomia de Hiparco usa observações babilônicas. É uma síntese de tradições grega e oriental, e não uma criação do nada.</p><p><strong>Referências:</strong> Heath (1921) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Sistematização da matemática e do conhecimento"
-   },
-   "end_date": {
-    "year": -101
-   }
-  },
-  {
-   "start_date": {
-    "year": 750,
-    "display_date": "Séculos VIII–XI (intervalo aproximado)"
-   },
-   "text": {
-    "headline": "Desenvolvimento científico no mundo islâmico medieval",
-    "text": "<p><em>Séculos VIII–XI (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Estudiosos de Bagdá, do Cairo e de outras cidades avançaram na álgebra, óptica, astronomia e medicina, criticando e ampliando o saber herdado.</p><p><strong>Contexto histórico:</strong> Califados abastados, a Casa da Sabedoria de Bagdá (cujo alcance é debatido por historiadores), a difusão do papel e uma ampla rede de comércio e traduções do grego, siríaco, persa e sânscrito.</p><p><strong>Interpretação crítica:</strong> Autores como al-Khwarizmi, Ibn al-Haytham e al-Biruni trabalharam com saberes gregos, indianos e persas. Falar apenas de “preservação” da ciência grega apaga a produção original dessas comunidades.</p><p><strong>Referências:</strong> Gutas (1998); Saliba (2007) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Desenvolvimento científico no mundo islâmico medieval"
-   },
-   "end_date": {
-    "year": 1100
-   }
-  },
-  {
-   "start_date": {
-    "year": 1100,
-    "display_date": "Séculos XII–XIII (intervalo aproximado)"
-   },
-   "text": {
-    "headline": "Tradução e circulação do conhecimento científico",
-    "text": "<p><em>Séculos XII–XIII (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Obras do árabe e do grego foram traduzidas ao latim, sobretudo na Península Ibérica e na Sicília, e passaram a integrar o ensino das universidades europeias.</p><p><strong>Contexto histórico:</strong> Contato entre cristãos, muçulmanos e judeus, crescimento das cidades e surgimento das universidades.</p><p><strong>Interpretação crítica:</strong> Tradutores de várias origens e comunidades intelectuais foram essenciais. O saber medieval latino era, portanto, herdeiro de múltiplas tradições, o que relativiza a ideia de uma Europa isolada e “estagnada”.</p><p><strong>Referências:</strong> Lindberg (1992) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Tradução e circulação do conhecimento científico"
-   },
-   "end_date": {
-    "year": 1300
-   }
-  },
-  {
-   "start_date": {
-    "year": 1543,
-    "display_date": "1543 ao século XVII (intervalo histórico)"
-   },
-   "text": {
-    "headline": "Revolução Científica e heliocentrismo",
-    "text": "<p><em>1543 ao século XVII (intervalo histórico)</em></p><p><strong>Problema ou contribuição:</strong> Copérnico propôs, em 1543, um modelo com o Sol no centro; Kepler e Galileu ampliaram a astronomia com leis matemáticas e observações telescópicas, reformulando o estudo do movimento.</p><p><strong>Contexto histórico:</strong> Reforma e disputas religiosas, imprensa, universidades, cortes e mecenato, além de novos instrumentos.</p><p><strong>Interpretação crítica:</strong> Nickles (2024) mostra que “Revolução Científica” é uma categoria historiográfica discutida: houve uma só ou várias transformações? Kuhn a trata como mudança de paradigma, mas há continuidades com o saber medieval e islâmico. Não foi uma ruptura instantânea.</p><p><strong>Referências:</strong> Nickles (2024); Kuhn (1962); Westman (2011) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Revolução Científica e heliocentrismo"
-   },
-   "end_date": {
-    "year": 1700
-   }
-  },
-  {
-   "start_date": {
-    "year": 1687,
-    "display_date": "1687"
-   },
-   "text": {
-    "headline": "Consolidação da física clássica",
-    "text": "<p><em>1687</em></p><p><strong>Problema ou contribuição:</strong> Os <em>Principia</em>, de Newton, apresentaram leis do movimento e a gravitação universal, unificando mecânica terrestre e celeste.</p><p><strong>Contexto histórico:</strong> Sociedades científicas, como a Royal Society, redes de correspondência e trabalhos de Kepler, Galileu, Huygens e outros.</p><p><strong>Interpretação crítica:</strong> À luz da discussão em Nickles (2024), o episódio ilustra o debate de Kuhn sobre ciência normal e paradigma: uma síntese que orientou a pesquisa por muito tempo, mas dependente de trabalhos anteriores e coletivos.</p><p><strong>Referências:</strong> Nickles (2024); Cohen (1980) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Consolidação da física clássica"
-   }
-  },
-  {
-   "start_date": {
-    "year": 1859,
-    "display_date": "1859"
-   },
-   "text": {
-    "headline": "Teoria da evolução por seleção natural",
-    "text": "<p><em>1859</em></p><p><strong>Problema ou contribuição:</strong> Darwin publicou <em>A origem das espécies</em>, explicando a diversidade da vida por descendência com modificação e seleção natural; Wallace chegou independentemente a ideia semelhante.</p><p><strong>Contexto histórico:</strong> Expansão colonial e viagens científicas, geologia de Lyell, coleções naturalistas e debates sobre população (Malthus).</p><p><strong>Interpretação crítica:</strong> A teoria nasceu de uma rede de naturalistas e correspondentes, e foi debatida e reformulada ao longo do tempo. A genética posterior mudou o quadro explicativo.</p><p><strong>Referências:</strong> Bowler (1983) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Teoria da evolução por seleção natural"
-   }
-  },
-  {
-   "start_date": {
-    "year": 1900,
-    "display_date": "1900 à década de 1920 (intervalo histórico)"
-   },
-   "text": {
-    "headline": "Relatividade e mecânica quântica",
-    "text": "<p><em>1900 à década de 1920 (intervalo histórico)</em></p><p><strong>Problema ou contribuição:</strong> Planck propôs a quantização da energia (1900), Einstein formulou a relatividade restrita (1905) e geral (1915), e uma geração de físicos desenvolveu a mecânica quântica na década de 1920.</p><p><strong>Contexto histórico:</strong> Problemas não resolvidos da radiação, do éter e da estrutura atômica, laboratórios e congressos internacionais.</p><p><strong>Interpretação crítica:</strong> Para Nickles (2024), casos como esse alimentam o debate sobre revolução: houve transformação conceitual profunda, mas também continuidade com a física clássica, preservada em seus domínios. A mecânica quântica foi um trabalho coletivo de muitos autores.</p><p><strong>Referências:</strong> Nickles (2024); Kragh (1999) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Relatividade e mecânica quântica"
-   },
-   "end_date": {
-    "year": 1929
-   }
-  },
-  {
-   "start_date": {
-    "year": 1953,
-    "display_date": "1953"
-   },
-   "text": {
-    "headline": "Estrutura do DNA e biologia molecular",
-    "text": "<p><em>1953</em></p><p><strong>Problema ou contribuição:</strong> Em 1953, Watson e Crick propuseram o modelo de dupla hélice do DNA na <em>Nature</em>, ao lado de artigos de Wilkins e colaboradores e de Franklin e Gosling com dados de difração de raios X.</p><p><strong>Contexto histórico:</strong> Química dos ácidos nucleicos, cristalografia, física aplicada à biologia e financiamento de pesquisa no pós-guerra.</p><p><strong>Interpretação crítica:</strong> O modelo resultou de dados experimentais de vários grupos, incluindo o trabalho de Rosalind Franklin, cujo papel foi reconhecido tardiamente. É um caso de contribuição coletiva e de debate sobre crédito científico.</p><p><strong>Referências:</strong> Watson e Crick (1953); Maddox (2002) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
-   },
-   "media": {
-    "url": "assets/images/placeholder.svg",
-    "caption": "Imagem a definir — licença não verificada.",
-    "credit": "Espaço reservado (sem imagem de terceiros)",
-    "alt": "Espaço reservado para imagem histórica de: Estrutura do DNA e biologia molecular"
-   }
-  }
- ]
+  "events": [
+    {
+      "start_date": {
+        "year": -3000,
+        "display_date": "c. 3000–1000 a.C. (intervalo aproximado)"
+      },
+      "text": {
+        "headline": "Primeiros registros sistemáticos do conhecimento",
+        "text": "<p><em>c. 3000–1000 a.C. (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Povos da Mesopotâmia e do Egito registraram contagens, medidas, calendários e observações astronômicas para administrar colheitas, tributos e rituais. Tabletes cuneiformes mostram técnicas matemáticas e tabelas elaboradas.</p><p><strong>Contexto histórico:</strong> Estados com escribas, templos e burocracias precisavam de escrita, sistemas de medida e calendários confiáveis.</p><p><strong>Interpretação crítica:</strong> Esse saber não foi obra de indivíduos isolados: foi mantido por escolas de escribas e transmitido por gerações. Mais tarde, gregos e astrônomos de outras tradições dialogaram com essas tabelas e métodos. Atenção: as datas são aproximadas e variam por região.</p><p><strong>Referências:</strong> Robson (2008); Neugebauer (1957) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Babylonian_Clay_Tablets.jpg",
+        "caption": "Tabletes de argila babilônicos · fotografia de Gary Todd, 2017",
+        "credit": "Imagem CC0 · <a href=\"https://commons.wikimedia.org/wiki/File:Babylonian_Clay_Tablets.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e licença</a>",
+        "alt": "Conjunto de tabletes de argila com inscrições cuneiformes em exposição"
+      },
+      "end_date": {
+        "year": -1000
+      }
+    },
+    {
+      "start_date": {
+        "year": -600,
+        "display_date": "Séculos VI–IV a.C. (intervalo aproximado)"
+      },
+      "text": {
+        "headline": "Filosofia natural na Grécia Antiga",
+        "text": "<p><em>Séculos VI–IV a.C. (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Pensadores gregos buscaram explicações da natureza por causas naturais, discutindo matéria, movimento e cosmos, de Tales a Aristóteles.</p><p><strong>Contexto histórico:</strong> Cidades-Estado com debate público, circulação de ideias e contato com Egito, Mesopotâmia e Pérsia.</p><p><strong>Interpretação crítica:</strong> Os gregos herdaram dados e técnicas orientais, e as escolas rivais (jônica, pitagórica, atomista, platônica, aristotélica) construíram o conhecimento por disputa coletiva. Muitas fontes chegaram fragmentadas, o que exige cautela ao atribuir ideias a um único nome.</p><p><strong>Referências:</strong> Lloyd (1970) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Aristotle%2C_from_The_Story_of_Philosophy.jpg",
+        "caption": "Representação de Aristóteles · impressão publicada em 1926, autor da imagem não identificado",
+        "credit": "Domínio público (publicação anterior a 1931 nos EUA) · <a href=\"https://commons.wikimedia.org/wiki/File:Aristotle,_from_The_Story_of_Philosophy.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo e situação de direitos</a>",
+        "alt": "Representação em preto e branco do filósofo Aristóteles"
+      },
+      "end_date": {
+        "year": -301
+      }
+    },
+    {
+      "start_date": {
+        "year": -300,
+        "display_date": "Séculos III–II a.C. (intervalo aproximado)"
+      },
+      "text": {
+        "headline": "Sistematização da matemática e do conhecimento",
+        "text": "<p><em>Séculos III–II a.C. (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Em Alexandria e arredores, Euclides, Arquimedes, Apolônio e Hiparco organizaram geometria, mecânica e astronomia em tratados e métodos rigorosos.</p><p><strong>Contexto histórico:</strong> Monarquias helenísticas financiaram instituições como o Museu e a Biblioteca de Alexandria, reunindo estudiosos de várias origens.</p><p><strong>Interpretação crítica:</strong> Os <em>Elementos</em> organizam resultados anteriores; a astronomia de Hiparco usa observações babilônicas. É uma síntese de tradições grega e oriental, e não uma criação do nada.</p><p><strong>Referências:</strong> Heath (1921) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Euclid_Lueneburg_ms_13r.jpg",
+        "caption": "Os Elementos, de Euclides · manuscrito latino medieval de Lüneburg, c. 1200 (testemunho posterior da tradição euclidiana)",
+        "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Euclid_Lueneburg_ms_13r.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, descrição e direitos</a>",
+        "alt": "Página de manuscrito medieval dos Elementos de Euclides, com texto manuscrito e diagrama geométrico"
+      },
+      "end_date": {
+        "year": -101
+      }
+    },
+    {
+      "start_date": {
+        "year": 750,
+        "display_date": "Séculos VIII–XI (intervalo aproximado)"
+      },
+      "text": {
+        "headline": "Desenvolvimento científico no mundo islâmico medieval",
+        "text": "<p><em>Séculos VIII–XI (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Estudiosos de Bagdá, do Cairo e de outras cidades avançaram na álgebra, óptica, astronomia e medicina, criticando e ampliando o saber herdado.</p><p><strong>Contexto histórico:</strong> Califados abastados, a Casa da Sabedoria de Bagdá (cujo alcance é debatido por historiadores), a difusão do papel e uma ampla rede de comércio e traduções do grego, siríaco, persa e sânscrito.</p><p><strong>Interpretação crítica:</strong> Autores como al-Khwarizmi, Ibn al-Haytham e al-Biruni trabalharam com saberes gregos, indianos e persas. Falar apenas de “preservação” da ciência grega apaga a produção original dessas comunidades.</p><p><strong>Referências:</strong> Gutas (1998); Saliba (2007) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ibn_Yunus_eclipses_1004_CE_manuscript_records_Arabic.jpg",
+        "caption": "Registros de eclipses de Ibn Yunus · manuscrito astronômico árabe, c. 1005",
+        "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Ibn_Yunus_eclipses_1004_CE_manuscript_records_Arabic.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e direitos</a>",
+        "alt": "Página de manuscrito árabe com registros astronômicos de eclipses solares e lunares"
+      },
+      "end_date": {
+        "year": 1100
+      }
+    },
+    {
+      "start_date": {
+        "year": 1100,
+        "display_date": "Séculos XII–XIII (intervalo aproximado)"
+      },
+      "text": {
+        "headline": "Tradução e circulação do conhecimento científico",
+        "text": "<p><em>Séculos XII–XIII (intervalo aproximado)</em></p><p><strong>Problema ou contribuição:</strong> Obras do árabe e do grego foram traduzidas ao latim, sobretudo na Península Ibérica e na Sicília, e passaram a integrar o ensino das universidades europeias.</p><p><strong>Contexto histórico:</strong> Contato entre cristãos, muçulmanos e judeus, crescimento das cidades e surgimento das universidades.</p><p><strong>Interpretação crítica:</strong> Tradutores de várias origens e comunidades intelectuais foram essenciais. O saber medieval latino era, portanto, herdeiro de múltiplas tradições, o que relativiza a ideia de uma Europa isolada e “estagnada”.</p><p><strong>Referências:</strong> Lindberg (1992) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Illustrated_Opening._Arabic_Translation_of_Euclid%27s_Elementa_%28CBL_Ar_3035%2C_ff.105b-106a%29.jpg",
+        "caption": "Tradução árabe dos Elementos de Euclides · atribuída a Ishaq ibn Hunayn, Bagdá, c. 1270",
+        "credit": "Domínio público (Public Domain Mark) · <a href=\"https://commons.wikimedia.org/wiki/File:Illustrated_Opening._Arabic_Translation_of_Euclid%27s_Elementa_(CBL_Ar_3035,_ff.105b-106a).jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, coleção e direitos</a>",
+        "alt": "Duas páginas de manuscrito árabe medieval com texto e diagramas geométricos em vermelho e preto"
+      },
+      "end_date": {
+        "year": 1300
+      }
+    },
+    {
+      "start_date": {
+        "year": 1543,
+        "display_date": "1543 ao século XVII (intervalo histórico)"
+      },
+      "text": {
+        "headline": "Revolução Científica e heliocentrismo",
+        "text": "<p><em>1543 ao século XVII (intervalo histórico)</em></p><p><strong>Problema ou contribuição:</strong> Copérnico propôs, em 1543, um modelo com o Sol no centro; Kepler e Galileu ampliaram a astronomia com leis matemáticas e observações telescópicas, reformulando o estudo do movimento.</p><p><strong>Contexto histórico:</strong> Reforma e disputas religiosas, imprensa, universidades, cortes e mecenato, além de novos instrumentos.</p><p><strong>Interpretação crítica:</strong> Nickles (2024) mostra que “Revolução Científica” é uma categoria historiográfica discutida: houve uma só ou várias transformações? Kuhn a trata como mudança de paradigma, mas há continuidades com o saber medieval e islâmico. Não foi uma ruptura instantânea.</p><p><strong>Referências:</strong> Nickles (2024); Kuhn (1962); Westman (2011) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Copernican_heliocentrism_diagram.jpg",
+        "caption": "Diagrama do modelo heliocêntrico de Copérnico · De revolutionibus orbium coelestium, 1543",
+        "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e direitos</a>",
+        "alt": "Diagrama histórico do sistema heliocêntrico com o Sol no centro e órbitas planetárias concêntricas"
+      },
+      "end_date": {
+        "year": 1700
+      }
+    },
+    {
+      "start_date": {
+        "year": 1687,
+        "display_date": "1687"
+      },
+      "text": {
+        "headline": "Consolidação da física clássica",
+        "text": "<p><em>1687</em></p><p><strong>Problema ou contribuição:</strong> Os <em>Principia</em>, de Newton, apresentaram leis do movimento e a gravitação universal, unificando mecânica terrestre e celeste.</p><p><strong>Contexto histórico:</strong> Sociedades científicas, como a Royal Society, redes de correspondência e trabalhos de Kepler, Galileu, Huygens e outros.</p><p><strong>Interpretação crítica:</strong> À luz da discussão em Nickles (2024), o episódio ilustra o debate de Kuhn sobre ciência normal e paradigma: uma síntese que orientou a pesquisa por muito tempo, mas dependente de trabalhos anteriores e coletivos.</p><p><strong>Referências:</strong> Nickles (2024); Cohen (1980) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Portrait_of_Sir_Isaac_Newton_by_Enoch_Seeman%2C_c._1726.jpg",
+        "caption": "Retrato de Isaac Newton · Enoch Seeman, c. 1726",
+        "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton_by_Enoch_Seeman,_c._1726.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, artista e direitos</a>",
+        "alt": "Pintura a óleo de Isaac Newton com cabelos longos e vestimenta escura"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1859,
+        "display_date": "1859"
+      },
+      "text": {
+        "headline": "Teoria da evolução por seleção natural",
+        "text": "<p><em>1859</em></p><p><strong>Problema ou contribuição:</strong> Darwin publicou <em>A origem das espécies</em>, explicando a diversidade da vida por descendência com modificação e seleção natural; Wallace chegou independentemente a ideia semelhante.</p><p><strong>Contexto histórico:</strong> Expansão colonial e viagens científicas, geologia de Lyell, coleções naturalistas e debates sobre população (Malthus).</p><p><strong>Interpretação crítica:</strong> A teoria nasceu de uma rede de naturalistas e correspondentes, e foi debatida e reformulada ao longo do tempo. A genética posterior mudou o quadro explicativo.</p><p><strong>Referências:</strong> Bowler (1983) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Charles_Darwin_portrait.jpg",
+        "caption": "Retrato fotográfico de Charles Darwin · Herbert Rose Barraud, 1881",
+        "credit": "Domínio público · <a href=\"https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, autoria e direitos</a>",
+        "alt": "Retrato fotográfico em preto e branco de Charles Darwin em idade avançada"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1900,
+        "display_date": "1900 à década de 1920 (intervalo histórico)"
+      },
+      "text": {
+        "headline": "Relatividade e mecânica quântica",
+        "text": "<p><em>1900 à década de 1920 (intervalo histórico)</em></p><p><strong>Problema ou contribuição:</strong> Planck propôs a quantização da energia (1900), Einstein formulou a relatividade restrita (1905) e geral (1915), e uma geração de físicos desenvolveu a mecânica quântica na década de 1920.</p><p><strong>Contexto histórico:</strong> Problemas não resolvidos da radiação, do éter e da estrutura atômica, laboratórios e congressos internacionais.</p><p><strong>Interpretação crítica:</strong> Para Nickles (2024), casos como esse alimentam o debate sobre revolução: houve transformação conceitual profunda, mas também continuidade com a física clássica, preservada em seus domínios. A mecânica quântica foi um trabalho coletivo de muitos autores.</p><p><strong>Referências:</strong> Nickles (2024); Kragh (1999) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Albert_Einstein_Portrait_%281930%29.jpg",
+        "caption": "Retrato de Albert Einstein · fotografia publicada em 1930",
+        "credit": "Domínio público (publicação anterior a 1931 nos EUA) · <a href=\"https://commons.wikimedia.org/wiki/File:Albert_Einstein_Portrait_(1930).jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo e situação de direitos</a>",
+        "alt": "Retrato fotográfico em preto e branco de Albert Einstein em 1930"
+      },
+      "end_date": {
+        "year": 1929
+      }
+    },
+    {
+      "start_date": {
+        "year": 1953,
+        "display_date": "1953"
+      },
+      "text": {
+        "headline": "Estrutura do DNA e biologia molecular",
+        "text": "<p><em>1953</em></p><p><strong>Problema ou contribuição:</strong> Em 1953, Watson e Crick propuseram o modelo de dupla hélice do DNA na <em>Nature</em>, ao lado de artigos de Wilkins e colaboradores e de Franklin e Gosling com dados de difração de raios X.</p><p><strong>Contexto histórico:</strong> Química dos ácidos nucleicos, cristalografia, física aplicada à biologia e financiamento de pesquisa no pós-guerra.</p><p><strong>Interpretação crítica:</strong> O modelo resultou de dados experimentais de vários grupos, incluindo o trabalho de Rosalind Franklin, cujo papel foi reconhecido tardiamente. É um caso de contribuição coletiva e de debate sobre crédito científico.</p><p><strong>Referências:</strong> Watson e Crick (1953); Maddox (2002) (<a href=\"docs/referencias.md\">lista completa</a>)</p>"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/DNA_Double_Helix_by_NHGRI.jpg",
+        "caption": "Modelo da dupla hélice do DNA · National Human Genome Research Institute (NHGRI)",
+        "credit": "Domínio público · obra de órgão do governo federal dos EUA · <a href=\"https://commons.wikimedia.org/wiki/File:DNA_Double_Helix_by_NHGRI.jpg\" target=\"_blank\" rel=\"noopener\">ver arquivo, instituição e direitos</a>",
+        "alt": "Ilustração colorida de uma molécula de DNA em estrutura de dupla hélice"
+      }
+    }
+  ]
 }
