@@ -42,7 +42,7 @@ body{
   transform:translateX(-50%);
   background:linear-gradient(90deg,transparent,var(--gold),transparent);
 }
-.cabecalho h1{
+.eyebrow{margin:0 auto 1rem;color:var(--gold-soft);font-size:.76rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase}\n.cabecalho h1{
   max-width:1000px;
   margin:0 auto .9rem;
   color:#fffaf1;
